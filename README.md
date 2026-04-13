@@ -1,6 +1,6 @@
 # Calculadorasderedes
 
-Aplicacion full stack orientada a redes y conversion numerica.
+Aplicacion orientada a redes y conversion numerica.
 
 Incluye herramientas para calculo de direccionamiento IP, conversion universal de bases (binario, octal, decimal y hexadecimal), guia de subneteo y calculadora cientifica.
 
