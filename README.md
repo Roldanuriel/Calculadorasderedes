@@ -1,5 +1,7 @@
 # Calculadorasderedes
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c7eba2d6-5eba-45ca-b149-c6754a6ae979/deploy-status)](https://app.netlify.com/projects/calculadoradered/deploys)
+
 Aplicacion orientada a redes y conversion numerica.
 
 Incluye herramientas para calculo de direccionamiento IP, conversion universal de bases (binario, octal, decimal y hexadecimal), guia de subneteo y calculadora cientifica.
