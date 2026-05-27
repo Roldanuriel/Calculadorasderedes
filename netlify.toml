@@ -1,6 +1,6 @@
 [build]
   base = "Calculadoras"
-  publish = "dist"
+  publish = "Calculadoras/dist"
   command = "npm install && npm run build"
 
 [build.environment]
